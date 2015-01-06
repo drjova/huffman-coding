@@ -1,0 +1,3 @@
+/*
+ * Huffman Adaptive Coding
+ */
